@@ -1,4 +1,4 @@
 # COMPASS
-Coming Soon
+Coming Soon...
 ![COMPASS Project](frame.jpg)
 
